@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@kinotalk.ru",
+        "password": "password"
+    },
+    {
+        "id": 2,
+        "username": "manager",
+        "email": "manager@kinotalk.ru",
+        "password": "password"
+    },
+    {
+        "id": 3,
+        "username": "commission",
+        "email": "manager2@kinotalk.ru",
+        "password": "password"
+    },
+    {
+        "id": 4,
+        "username": "participant",
+        "email": "participant@kinotalk.ru",
+        "password": "password"
+    },
+    {
+        "id": 5,
+        "username": "resident",
+        "email": "resident@kinotalk.ru",
+        "password": "password"
+    }
+]
