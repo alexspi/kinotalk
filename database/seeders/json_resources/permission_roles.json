@@ -1,0 +1,50 @@
+{
+    "moderator": {
+        "post": [
+            "view",
+            "create",
+            "update",
+            "delete",
+            "softDelete",
+            "restore"
+        ],
+        "comments": [
+            "view",
+            "create",
+            "update",
+            "delete",
+            "softDelete",
+            "restore"
+        ],
+        "user": [
+            "block"
+
+        ]
+    },
+    "author": {
+        "post": [
+            "view",
+            "create",
+            "update",
+            "delete",
+            "softDelete",
+            "restore"
+        ],
+        "comments": [
+            "view-self",
+            "create",
+            "update-self",
+            "delete-self"
+        ]
+    },
+    "user": {
+        "comments": [
+            "view-self",
+            "create",
+            "update-self",
+            "delete-self"
+        ]
+
+    }
+
+}
